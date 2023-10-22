@@ -4,6 +4,12 @@
 
 // var me = " My neme is MD. Mehedi Hasan";
 
+// Ans to the ques no 2
+
+1st var নিতে হবে।
+2nd ভ্যারিয়েবল এর নাম দিতে হবে।
+3rd ভ্যারিয়েবল মান দিতে হবে।
+
 // Ans To the ques. No 03
 
 // Bibinno variable ar Name...
